@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+logs/
+*.log
+.DS_Store
+coverage/
+.turbo/
+package-lock.json.bak*
